@@ -1,0 +1,24 @@
+{
+  "name": "error-pages",
+  "version": "1.0.0",
+  "description": "A collection of Error Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJWcodr/error-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJWcodr/error-pages/issues"
+  },
+  "homepage": "https://github.com/MJWcodr/error-pages#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-sass": "^6.0.1"
+  }
+}
